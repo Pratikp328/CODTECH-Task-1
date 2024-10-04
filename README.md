@@ -16,12 +16,14 @@ Technologies Used: HTML, CSS, JavaScript
 
 Duration:15 september 2024 to october 30 2024
 
-Project Link: (https://github.com/Pratikp328/CODTECH-Task-1/tree/main)
+Project Link: (https://github.com/Pratikp328/CODTECH-Task-1)
 
 
 
 
-1. Project Objective
+
+1. Project Objective :
+   
 The objective of this project was to create a personal portfolio website to showcase my skills, projects, and experiences as a full-stack web developer and BI analyst. The website serves as a professional digital profile for potential employers and collaborators.
 
 2. Key Features
