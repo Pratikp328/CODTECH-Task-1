@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<!-- Website - www.xmrbadcaptain.com -->
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Portfolio pratik's website </title>
+    <link rel="stylesheet" href="styles.css" />
+    <!-- Fontawesome CDN Link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <!-- Move to up button -->
+    <div class="scroll-button">
+      <a href="#home"><i class="fas fa-arrow-up"></i></a>
+    </div>
+    <!-- navgaition menu -->
+    <nav>
+      <div class="navbar">
+        <div class="logo"><a href="#">BadCAPTAIN</a></div>
+        <ul class="menu">
+          <li><a href="#home">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#skills">Skills</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#contact">Contact</a></li>
+          <div class="cancel-btn">
+            <i class="fas fa-times"></i>
+          </div>
+        </ul>
+        <div class="media-icons">
+          <a href="#"><i class="fab fa-linkedin"></i></a>
+          <a href="#"><i class="fab fa-github"></i></a>
+          <a href="#"><i class="fab fa-instagram"></i></a>
+        </div>
+      </div>
+      <div class="menu-btn">
+        <i class="fas fa-bars"></i>
+      </div>
+    </nav>
+
+    <!-- Home Section Start -->
+    <section class="home" id="home">
+      <div class="home-content">
+        <div class="text">
+          <div class="text-one">Hello,</div>
+          <div class="text-two">I'm Pratik panda</div>
+          <div class="text-three">FULL STACK WEB DEVELOPER & 
+            BUSINESS INTELLIGENCE (BI) ANALYST
+          </div>
+          <div class="text-four">From HYDERABAD</div>
+        </div>
+        <div class="button">
+          <button>Hire Me</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- About Section Start -->
+    <section class="about" id="about">
+      <div class="content">
+        <div class="title"><span>About Me</span></div>
+        <div class="about-details">
+          <div class="left">
+            <img src="https://res.cloudinary.com/dpk63wtev/image/upload/v1726674593/WhatsApp_Image_2024-09-18_at_18.20.19_182f3043_qcbcvk.jpg" />
+          </div>
+          <div class="right">
+            <div class="topic"> Creating websites & designing dashboards Is My Passion</div>
+            <p>
+                I’m Pratik Panda, a dedicated and enthusiastic Full Stack Web Developer and Business Intelligence Analyst with a passion for creating digital solutions and extracting valuable insights from data. Currently pursuing a B.Tech in Computer Science Engineering, I have developed a strong foundation in both *web development and data visualization. My expertise spans across HTML, CSS, JavaScript, Power BI, Tableau, and SQL, allowing me to build engaging, responsive websites and craft interactive dashboards.
+            </p>
+            <div class="button">
+              <button>Download CV</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- My Skill Section Start -->
+    <!-- Section Tag and Other Div will same where we need to put same CSS -->
+    <section class="skills" id="skills">
+      <div class="content">
+        <div class="title"><span>My Skills</span></div>
+        <div class="skills-details">
+          <div class="text">
+            <div class="topic">Skills Reflects Our Knowledge</div>
+            <p>Additionally I am strong in time management, teamwork, communication, leadership, problem solving, and attention to detail, ensuring the delivery of high-quality work in both development and data visualization projects.</p>
+            <div class="experience">
+              <div class="num">1</div>
+              <div class="exp">
+                Years Of <br />
+                Experience
+              </div>
+            </div>
+          </div>
+          <div class="boxes">
+            <div class="box">
+              <div class="topic">HTML</div>
+              <div class="per">90%</div>
+            </div>
+            <div class="box">
+              <div class="topic">CSS</div>
+              <div class="per">86%</div>
+            </div>
+            <div class="box">
+              <div class="topic">JavScript</div>
+              <div class="per">70%</div>
+            </div>
+            <div class="box">
+              <div class="topic">Power BI</div>
+              <div class="per">85%</div>
+            </div>
+            <div class="box">
+                <div class="topic">Tableau</div>
+                <div class="per">75%</div>
+              </div>
+              <div class="box">
+                <div class="topic">SQL</div>
+                <div class="per">65%</div>
+              </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- My Services Section Start -->
+    <section class="services" id="services">
+      <div class="content">
+        <div class="title"><span>My Services</span></div>
+        <div class="boxes">
+          <div class="box">
+            <div class="icon">
+              <i class="fas fa-desktop"></i>
+            </div>
+            <div class="topic">responsive website Design</div>
+            <p>Crafting websites that look great on all devices, from mobile to desktop.</p>
+          </div>
+          <div class="box">
+            <div class="icon">
+              <i class="fas fa-paint-brush"></i>
+            </div>
+            <div class="topic">UI/XI enhancement</div>
+            <p>Focused on creating intuitive designs to improve usability and customer satisfaction.</p>
+          </div>
+          <div class="box">
+            <div class="icon">
+              <i class="fas fa-arrow-up"></i>
+            </div>
+            <div class="topic">Web development consultation</div>
+            <p>Enhancing site speed and functionality for better user engagement.</p>
+          </div>
+          <div class="box">
+            <div class="icon">
+              <i class="fas fa-chart-line"></i>
+            </div>
+            <div class="topic">interactive dashboards</div>
+            <p>Interactive dashboards tailored for clear and actionable insights.</p>
+          </div>
+          <div class="box">
+            <div class="icon">
+              <i class="fas fa-bars"></i>
+            </div>
+            <div class="topic">Data analysis & reporting</div>
+            <p>Transforming complex data sets into clear, visual reports using modern BI tools.</p>
+          </div>
+          <div class="box">
+            <div class="icon">
+              <i class="fas fa-tablet-alt"></i>
+            </div>
+            <div class="topic">Data strategy & insights</div>
+            <p>Leveraging advanced analytics tools to unlock key business insights.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact Me section Start -->
+    <section class="contact" id="contact">
+      <div class="content">
+        <div class="title"><span>Contact Me</span></div>
+        <div class="text">
+          <div class="topic">Have Any Project?</div>
+          <p>I’m Pratik Panda, a dedicated and enthusiastic *Full Stack Web Developer* and *Business Intelligence Analyst* with a passion for creating digital solutions and extracting valuable insights from data. Currently pursuing a B.Tech in Computer Science Engineering, I have developed a strong foundation in both *web development* and *data visualization. My expertise spans across HTML, CSS, JavaScript, Power BI, Tableau, and SQL, allowing me to build engaging, responsive websites and craft interactive dashboards.</p>
+          <div class="button">
+            <button>Let's Chat</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer Section Start -->
+    <footer>
+      <div class="text">
+        <span>Created By <a href="#">PPS pratik pvt Ltd</a> | &#169; 2022 All Rights Reserved</span>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+    
