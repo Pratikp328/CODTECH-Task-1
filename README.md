@@ -1,14 +1,23 @@
 # CODTECH TASK 1 
 
 Name : PRATIK PANDA 
+
 Company: CODTECH IT SOLUTIONS PVT LTD
+
 ID:CT6WDS1911
+
 Domain:REACT.JS WEB DEVELOPMENT
+
 Mentor:SRAVANI GOUD
+
 Project Title: Personal Portfolio Website
+
 Technologies Used: HTML, CSS, JavaScript
+
 Duration:15 september 2024 to october 30 2024
+
 Project Link: (https://github.com/Pratikp328/CODTECH-Task-1/tree/main)
+
 
 
 
