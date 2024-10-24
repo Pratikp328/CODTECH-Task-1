@@ -62,4 +62,20 @@ Project Expansions: Plan to add more projects with live demos, especially in web
 
 Advanced Features: Enhance JavaScript interactivity by adding dynamic elements like a portfolio filter, lightbox gallery for project images, or an integrated blog section.
 
--Task-1
+
+![Screenshot 2024-10-24 221538](https://github.com/user-attachments/assets/df596573-7c1f-45a4-9f0d-c822ab27f758)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
